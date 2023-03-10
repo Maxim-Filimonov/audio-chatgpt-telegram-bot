@@ -1,6 +1,6 @@
 # Telegram bot transcriber
 
-Telegram bot to use transcribe chat messages using whisper ai from openAI.
+Telegram bot to use transcribe audio messages(voice or mp3/wav files) using whisper ai from openAI.
 
 The bot has been deployed on [Railway](https://railway.app), and it works amazingly! 🚀
 You can deploy your own bot, or try out mine! [@AudioGPT_bot](https://t.me/whisper_to_me_bot)
