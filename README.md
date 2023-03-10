@@ -1,19 +1,15 @@
-# Telegram bot Audio ChatGPT
+# Telegram bot transcriber
 
-**ChatGPT** is changing how we perceive technology, and interacting with it in a smooth and clean manner is paramount to further improve user experience. This is why I believe interacting with it using Telegram bots and using speech can help further exploit its potential.
-
-Telegram bot to use ChatGPT with text and vocal messages.
-I have updated the repo using Whisper and ChatGPT official APIs from OpenAI. 
+Telegram bot to use transcribe chat messages using whisper ai from openAI.
 
 The bot has been deployed on [Railway](https://railway.app), and it works amazingly! 🚀
-You can deploy your own bot, or try out mine! [@AudioGPT_bot](https://t.me/AudioGPT_bot)
+You can deploy your own bot, or try out mine! [@AudioGPT_bot](https://t.me/whisper_to_me_bot)
 
 ## Features
 
-* Use voice and text messages to interact with the Bot
+* Use voice or file attachments to interact with the bost
 * Type or speak in many different languages 
 * Fast answers (2-3 seconds)
-* History tracked for individual user (you can clean it)
 
 
 ## Bot commands
