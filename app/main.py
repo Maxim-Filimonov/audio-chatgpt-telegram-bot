@@ -29,9 +29,17 @@ def start_command_handler(update, context):
     add_new_user(str(update.message.chat.id))
 
     start_text = """
-Hi there, this bot allows you to query Transcribe your voice or file attachments directly from Telegram
-Credits: @faviasono for original idea✌🏻
+Hi there, this bot allows you to query Transcribe your voice or file attachments(mp3, ogg) directly from Telegram
+Credits: 
+- @tpaktopsp for bot implementation and hosting.
+- @faviasono for original idea✌🏻
 You are ready to go 🚀
+-----
+Привет, этот бот позволяет вам распозновать ваши голосовые или файловые вложения(mp3, ogg) непосредственно из Telegram
+Кредиты: 
+- @tpaktopsp для внедрения ботов и хостинг.
+- @faviasono за оригинальную идею✌🏻
+Вы готовы к работе 🚀
     """
 
     update.message.reply_text(start_text)
